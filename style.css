@@ -1,0 +1,39 @@
+.arun{
+    font-family: 'Hina Mincho', serif;
+    
+}
+.img-jmb{
+    background-image: url(soft.jpg);
+    background-size: cover;
+    height: 475px;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .text{
+      margin-bottom:50px ;
+  }
+  .img-circle{
+    border-radius: 40%;
+      height: 80px;
+      width: 80px;
+      display: block;
+     margin-left: auto;
+     margin-right: auto;
+     padding-bottom: 10px;
+     width: 80px;
+  }
+  .font{
+      box-align:center;
+  }
+  .aj{
+      height:250px;
+      width:400px;
+  }
+  .ph{
+      height:250px;
+      mar
+  }
